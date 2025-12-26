@@ -2,6 +2,7 @@
 
 A safety-focused navigation web app that finds the **safest route** between locations by comparing multiple paths with real-time safety scores. Perfect for night travel or unfamiliar areas.
 
+[![Vercel](https://img.shields.io/badge/Vercel-Live-brightgreen.svg?logo=vercel)](https://safe-route-ten.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://www.typescriptlang.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-blue.svg)](https://tailwindcss.com)
@@ -83,13 +84,16 @@ src/
 
 ## 🛠️ Getting Started
 
+**🔴 LIVE DEMO**: [![Vercel](https://img.shields.io/badge/Vercel-Live-brightgreen.svg?logo=vercel)](https://safe-route-ten.vercel.app/)
+
+
 ### Prerequisites
 - Node.js 18+
 - npm/yarn
 
 ### Installation
 ```
-git clone <your-repo-url>
+git clone https://github.com/yogita-mehta/safe-route.git
 cd saferoute
 npm install
 npm run dev
